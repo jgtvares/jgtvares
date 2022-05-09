@@ -1,7 +1,7 @@
 ### Hello World
 I'm João Gabriel Tavares, _aka_ Jojo.
 
-I have a lot of ideas (maybe too much) and I need to put them in practice somehow - for the sake of my sanity! Those ideas are not necessarilly in the technology expectrum, I have ideas for songs, games, story scripts, cooking and - of course - tech projects!
+I have a lot of ideas (maybe too many) and I need to put them into practice somehow - for the sake of my sanity! Those ideas are not necessarily in the technology spectrum, I have ideas for songs, games, story scripts, cooking, and - of course - tech projects!
 
 Here I'll try to summarize part of what I've been doing latelly!
 
