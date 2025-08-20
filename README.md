@@ -1,5 +1,5 @@
 ### Hello World
-I'm João Gabriel Tavares, _aka_ Jojo.
+I'm João Gabriel Tavares.
 
 I have a lot of ideas (maybe too many) and I need to put them into practice somehow - for the sake of my sanity! Those ideas are not necessarily in the technology spectrum, I have ideas for songs, games, story scripts, cooking, and - of course - tech projects!
 
