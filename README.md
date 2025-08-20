@@ -6,7 +6,7 @@ I have a lot of ideas (maybe too many) and I need to put them into practice some
 Here I'll try to summarize part of what I've been doing latelly!
 
 ### What I've been up to
-- 💼 I'm currently working at [@olxbr](https://github.com/olxbr) as a Software Engineer.
+- 💼 I'm currently working at [CTW](https://www.criticaltechworks.com/) as a Software Engineer.
 - 🌩️ **[Hackz App](https://hackzapp.com)** - This is currently my biggest private project - still a work in progress - where you can integrate your Slack status with your Google Calendar. Kinda' like Clockwise but better - I hope so at least. I intend to make this an open source project in the future.
 - 💻 **My Ideal PC** - It's a browser extension that helps you find the ideal PC setup for your use case. I paused this project in order to dedicate more time to other things but I intend to get back to it someday.
 - 🚗 **[Compra Carro Sim](https://www.compracarrosim.com.br)** - A very simple web app that helps people to make a car financing simulation. This project was designed for national - Brazil - use only.
